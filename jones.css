@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body{
+    background-color:#AF8686;
+}
+
+a{
+    text-decoration: none;
+    
+
+}
+
+nav{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    position: relative;   
+}
+
+ul li{
+    text-align: justify;
+}
+
+nav ul {
+    float: left;
+    
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding:0px 20px;
+    /*Make sure to center nav*/
+    
+    
+
+}
+
+nav ul li a{
+    display: inline-block;
+    font-family:felix titling;
+    font-size: 24px;
+    padding: 22px 14px;
+}
+
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+}
+
+#logo{
+    margin-top:8px ;
+
+}
+
+#line{
+    background-color:#eebfbf;
+    padding-top: -2px;
+    /*fix padding*/
+}
+
+.find{
+    text-align: center;
+    font-size: 30px;
+    
+    border-radius:25px;
+    background-color:#b49898a8;
+    
+
+}
+
+.style_for{
+    font-family: felix titling;
+    color:white;
+}
+
+/*try to push things up*/
+
+.clothes{
+    width: 300px;
+    height: 420px;
+    padding-top:50px;
+    padding-right: 10px;
+    padding-left: 55px;
+    
+
+}
+
+
+/*#divclo{
+  position: fixed; /* Sit on top of the page content *
+  display: none; /* Hidden by default *
+  width: 100%; /* Full width (cover the whole page) *
+  height: 100%; /* Full height (cover the whole page) *
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); /* Black background with opacity 
+  z-index: 2;  Specify a stack order in case you're using a different order for other elements 
+  cursor: pointer; Add a pointer on hover 
+}
+
+*/
+
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    clear: both;
+
+}
+#footer{
+    text-align: center;
+    padding-top:20px;
+    font-size: 16px;
+    font-family: felix titling;
+}
+
+#clopics{
+    padding-bottom: 180px;
+}
+
+#icons{
+   float: right;
+   margin-right:705px;
+   padding-bottom: 5px;
+
+}
+
+#find{
+    padding-bottom: 30px;
+}
+
+/*
+.image{
+    position: relative;
+    width: 300
+
+overlay{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100 ;
+    background: rgba(188, 143, 143, 0.815);
+    color:white;
+}
+*/
