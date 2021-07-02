@@ -1,2 +1,2 @@
 # Jones-by-Nina-Jones
-Project for my web developer portfolio 
+Project for my web developer portfolio. Complete
